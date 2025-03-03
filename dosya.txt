@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozckdZN1pmQkU5YmxWaVQ1QlFMbXQwNVZLYlJTSkkyUDdhbnErQ3lseWpFPQ@141.227.160.42:51395?type=tcp#Saparik
+vless://b18b8c48-b2df-4fcb-bbdf-ad3bd4ab2cdf@104.21.51.251:443?path=%2F&security=tls&fragment=1%2C1%2Ctlshello&alpn=http%2F1.1&encryption=none&host=mux.nagazi98.ru&fp=chrome&type=ws&sni=mux.nagazi98.ru#%F0%9F%9A%80%20Marz%20%28saparik%29%20%5BVLESS%20-%20ws%5D
